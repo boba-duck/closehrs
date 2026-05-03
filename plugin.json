@@ -2,6 +2,6 @@
   "name": "closehrs",
   "version": "1.0.0",
   "description": "Automatically enables or disables Modmail based on configured opening hours.",
-  "author": "jayden@keyloroblox.xyz",
+  "author": "jayden@keylogroup.co.uk",
   "main": "closehrs.py"
 }
