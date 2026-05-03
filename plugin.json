@@ -1,7 +1,7 @@
 {
   "name": "closehrs",
-  "version": "1.0.0",
-  "description": "Automatically enables or disables Modmail based on configured opening hours.",
+  "version": "2.0.0",
+  "description": "Automatically opens and closes Modmail based on a configurable weekly schedule, with holidays, temp overrides, custom DM messages, and staff notifications.",
   "author": "jayden@keylogroup.co.uk",
   "main": "closehrs.py"
 }
